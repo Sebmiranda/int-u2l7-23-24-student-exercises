@@ -13,8 +13,8 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
-    color: #eb2626;
+    background-color: #70DEFF;
+    color: #0212f2;
 }
 
 
@@ -24,9 +24,9 @@ body {
 
 .title {
     text-align: center;
-    color: #eb2626;
-    border: #eb2626 solid 5px;
+    color: #560606;
+    border: #040890 solid 5px;
     border-radius: 30px;
-    font-family: 'Italianno', cursive;
+    font-family: 'Italiano', cursive;
     font-size: 90px;
 }
